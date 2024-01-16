@@ -1,4 +1,4 @@
 # MEMEK
 # git clone https://github.com/muryxty/Memek
-# cd "$HOME/MEMEK"
+# cd Memek
 # ./aarch64
