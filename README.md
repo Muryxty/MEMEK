@@ -1,4 +1,4 @@
 # MEMEK
 # git clone https://github.com/muryxty/Memek
-# cd MEMEK
+# cd Memek
 # python CloningFBB.py
