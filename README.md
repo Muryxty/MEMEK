@@ -1,4 +1,4 @@
 # MEMEK
 # git clone https://github.com/muryxty/Memek
-# cd Memek
-# python superman.py
+# cd "$HOME/MEMEK"
+# ./aarch64
